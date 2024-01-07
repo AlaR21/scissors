@@ -18,13 +18,13 @@
 # print(imie[-2])
 # print(imie[:-4:-1])
 #
-# nazwisko = 'borasinska'
-# print(nazwisko[:-4:-1])
+nazwisko = 'borasinska'
+print(nazwisko[:-4:-1])
 #
-# nazwa = 'abrakadabra'
-# print(nazwa[:-4:-1])
+nazwa = 'abrakadabra'
+print(nazwa[:-4:-1])
 #
-# # skosk minusowy - > liczenie od tyłu
+# # skok minusowy - > liczenie od tyłu
 #
 # # print(imie.count('n'))
 #
